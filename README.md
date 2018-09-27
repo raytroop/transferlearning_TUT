@@ -22,7 +22,7 @@
 
 ## slides
 
-1. [`ee559-slides-5-5-initialization.pdf Fran¸cois Fleuret`](https://fleuret.org/ee559/ee559-slides-5-5-initialization.pdf)<br>
+1. [`Parameter initialization`](https://fleuret.org/ee559/ee559-slides-5-5-initialization.pdf)<br>
 2. `Reusing-Pretrained-Layers.pdf - Hands-on Machine Learning with Scikit-Learn and TensorFlow - `
 
 
