@@ -19,6 +19,7 @@
 ## Pytorch
 
 1. `pretrained_pth.md`
+2. [`pytorch_tutorial.ipynb - CS231n Spring 2018`](http://cs231n.stanford.edu/notebooks/pytorch_tutorial.ipynb)
 
 ## slides
 
